@@ -1,0 +1,2 @@
+var name = "Hajjdee";
+console.log('My name is ${Hajjdee}');
